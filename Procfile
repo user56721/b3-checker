@@ -1,1 +1,2 @@
-web: gunicorn hh:app
+web: python hh.py
+
