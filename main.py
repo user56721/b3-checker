@@ -9,10 +9,10 @@ from telebot import *
 from GATEAU import Tele
 from colorama import Fore
 
-allowed_ids = [5057623667, 6449213918]
+allowed_ids = [1511700458]
 
 sto = {"stop": True}
-token = "6471753306:AAGFBMXuexdpNHuEOANyBHwnB1VWvsmUxJw"
+token = "6971703532:AAGydL658cbI5FpZ6Bu3s8YqFwS0UfxZgQM"
 bot = telebot.TeleBot(token, parse_mode="HTML")
 
 
