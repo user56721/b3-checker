@@ -9,7 +9,7 @@ from telebot import *
 from GATEAU import Tele
 from colorama import Fore
 
-allowed_ids = [1511700458, 6449213918]
+allowed_ids = [1511700458]
 
 sto = {"stop": True}
 token = "6971703532:AAGas0kto3ThvsOX1dtl3vHHFtgKm-TFeIE"
@@ -157,7 +157,7 @@ def main(message):
 [↯] 𝗖𝗼𝘂𝗻𝘁𝗿𝘆: {do}
 ──────────────────
 
-[↯] 𝗕𝗢𝗧 𝗕𝗬: hackerworld69
+[↯] 𝗕𝗢𝗧 𝗕𝗬: @Vyrxen
 [↯] 𝗣𝗥𝗢𝗫𝗬 : 𝗟𝗶𝘃𝗲 [1XX.XX.XX 🟢]
 ──────────────────''')
         elif "Status code avs: Gateway Rejected: avs" in last or "Nice! New payment method added:" in last or "Status code 81724: Duplicate card exists in the vault." in last:
@@ -190,7 +190,7 @@ def main(message):
 [↯] 𝗕𝗮𝗻𝗸: {bank}
 [↯] 𝗖𝗼𝘂𝗻𝘁𝗿𝘆: {do}
 ──────────────────
-[↯] 𝗕𝗢𝗧 𝗕𝗬: hackerworld69
+[↯] 𝗕𝗢𝗧 𝗕𝗬: @Vyrxen
 [↯] 𝗣𝗥𝗢𝗫𝗬 : 𝗟𝗶𝘃𝗲 [1XX.XX.XX 🟢]
 ──────────────────''')
         else:
